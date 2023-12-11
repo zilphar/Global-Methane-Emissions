@@ -50,7 +50,7 @@ Insights from the Dataset:
    Energy emissions still remain to be highest in Africa with Onshore oil emissions being the highest followed by Bio energy.
    Onshore refers to oil, natural gas, or condensate field that is under the land. Africa is blessed with natural resources but explotation of these resources has
    led to extreme pollution of environment. Onshore oil emissions arise from onshore operations of oil rigs,, distillation plants, tank farms, and vehicular
-   emissions. This emssions are highly common in Nigeria and Algeria. 
+   emissions. This emissions are highly common in Nigeria and Algeria. 
 
 
    
