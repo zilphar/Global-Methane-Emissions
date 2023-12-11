@@ -21,8 +21,9 @@ I managed to generate insights from the data using Excel. This included
 6. And te reasons for Emissions (Flared, Vented, and Fugitive).
 
 Insights from the Dataset:
-1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/fd8a3f00-bab6-4a6d-8913-f8f144981389)
-2. 
+1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/fd8a3f00-bab6-4a6d-8913-f8f144981389) ![image](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/90af9977-58f6-4ea4-934c-3426fd0a1d22)
+
+2. The Asian Pacific has the highest amount of Methane Emissions so I Dived into that to determine why. 
 
 
 
