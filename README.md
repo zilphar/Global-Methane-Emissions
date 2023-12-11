@@ -21,7 +21,7 @@ I managed to generate insights from the data using Excel. This included
 6. And the reasons for Emissions (Flared, Vented, and Fugitive).
 
 Insights from the Dataset:
-![Screenshot (561)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/7a2ff56b-9c31-4845-b365-9a52bdea744d)
+![Screenshot (561)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/3b1e2777-c475-44aa-ad64-6fd31596373b)
 
 1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/d26f55a7-2552-4a13-980f-d24c9ae8c3c2) 
 
