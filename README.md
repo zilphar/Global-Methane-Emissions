@@ -1,4 +1,4 @@
-# Global-Methane-Emissions
+# Global-Methane-Emissions 2019 - 2022.
 This an analysis on the Global Methane emissions Dataset provided in Kaggle using Excel. 
 
 Description of the data: 
@@ -21,9 +21,11 @@ I managed to generate insights from the data using Excel. This included
 6. And te reasons for Emissions (Flared, Vented, and Fugitive).
 
 Insights from the Dataset:
-1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/fd8a3f00-bab6-4a6d-8913-f8f144981389) ![image](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/90af9977-58f6-4ea4-934c-3426fd0a1d22)
+1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/d26f55a7-2552-4a13-980f-d24c9ae8c3c2)
+ ![image](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/90af9977-58f6-4ea4-934c-3426fd0a1d22)
 
-2. The Asian Pacific has the highest amount of Methane Emissions so I Dived into that to determine why. 
+2. The Asian Pacific has the highest amount of Methane Emissions so I Dived into that to determine why. ![image](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/a3ec165c-7978-4db2-8452-2a563f9b1f0d)
+   China had the leading amount of Emissions with 30303.92 kt between 2019 -2021 and 50144.44 kt in 2022 a 67% increase in teh amount of emissions. 
 
 
 
