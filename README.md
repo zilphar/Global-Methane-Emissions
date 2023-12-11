@@ -20,4 +20,9 @@ I managed to generate insights from the data using Excel. This included
 5. The type of Energy Emissions (in this case Segment) that are highest in both Countries
 6. And te reasons for Emissions (Flared, Vented, and Fugitive).
 
+Insights from the Dataset:
+1. The total Global Emissions Continent	Sum of Emissions ![Screenshot (559)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/fd8a3f00-bab6-4a6d-8913-f8f144981389)
+2. 
+
+
 
