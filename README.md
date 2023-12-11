@@ -44,7 +44,8 @@ Insights from the Dataset:
    pollution and emissions of greenhouse gases.
 
 7. Methane Emissions in Africa:
-   Total Africa Methane Emissions are 54197.15 kt with Nigeria leading in emissions (9903.895 kt) followed by Algeria (6113.44 kt). ![Screenshot (563)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/bc474c22-96ce-45e2-ba31-f9e5747d0597)
+   Total Africa Methane Emissions are 54197.15 kt with Nigeria leading in emissions (9903.895 kt) followed by Algeria (6113.44 kt).
+   ![Screenshot (563)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/bc474c22-96ce-45e2-ba31-f9e5747d0597)
    ![Screenshot (564)](https://github.com/zilphar/Global-Methane-Emissions/assets/116642579/10076e0d-4af2-4e16-974e-ad1528a1098f)
    Energy emissions still remain to be highest in Africa with Onshore oil emissions being the highest followed by Bio energy.
    Onshore refers to oil, natural gas, or condensate field that is under the land. Africa is blessed with natural resources but explotation of these resources has
